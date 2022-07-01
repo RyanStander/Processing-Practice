@@ -1,0 +1,23 @@
+Boolean
+Datatypes are true and false and can only be those 2.
+Byte
+Datatypes are 8 bits of information string values from 127 to -128, convenient for sending data to serial 
+ports and representing letters in a simpler format.
+Char
+Datatypes for characters are symols such as A, a and symbols. Can only hold 1 character.
+Color
+Datatype for storing color values, stores either the numeric values of each color or the hexadecimal 
+notation.
+Double
+Datatype for floating point numbers larger than those that can be stored in a float. 
+Has 64bit values which is double the 
+amount as a float
+Float
+A float is a 32-bit values that can be as large as 3.40282347E+38 and as low as -3.40282347E+38.
+Int
+Datatype for integers, numbers without decimal points.ntegers can be as large as 2,147,483,647 
+and as low as -2,147,483,648. 
+Long
+Datatype for large integers. While integers can be as large as 2,147,483,647 and as low 
+as -2,147,483,648 (stored as 32 bits), a long integer has a minimum value 
+of -9,223,372,036,854,775,808 and a maximum value of 9,223,372,036,854,775,807 (stored as 64 bits). 
